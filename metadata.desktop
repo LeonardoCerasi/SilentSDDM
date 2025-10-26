@@ -23,3 +23,4 @@ ConfigFile=configs/default.conf
 ; ConfigFile=configs/catppuccin-frappe.conf
 ; ConfigFile=configs/catppuccin-macchiato.conf
 ; ConfigFile=configs/catppuccin-mocha.conf
+; ConfigFile=configs/quasar.conf
